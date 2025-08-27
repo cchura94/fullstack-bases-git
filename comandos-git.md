@@ -8,6 +8,7 @@ git config --global user.email "cristian@mail.com"
 - 
 ```
 git init
+----------
 git add .
 git commit -m "ejemplo html"
 ```
